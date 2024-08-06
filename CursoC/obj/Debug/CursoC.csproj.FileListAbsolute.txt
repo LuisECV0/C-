@@ -1,0 +1,7 @@
+C:\Users\luisc\source\repos\CursoC\CursoC\bin\Debug\CursoC.exe.config
+C:\Users\luisc\source\repos\CursoC\CursoC\bin\Debug\CursoC.exe
+C:\Users\luisc\source\repos\CursoC\CursoC\bin\Debug\CursoC.pdb
+C:\Users\luisc\source\repos\CursoC\CursoC\obj\Debug\CursoC.csproj.AssemblyReference.cache
+C:\Users\luisc\source\repos\CursoC\CursoC\obj\Debug\CursoC.csproj.CoreCompileInputs.cache
+C:\Users\luisc\source\repos\CursoC\CursoC\obj\Debug\CursoC.exe
+C:\Users\luisc\source\repos\CursoC\CursoC\obj\Debug\CursoC.pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisc\\source\\repos\\CursoC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A02E4B5C-D3F7-4238-9318-F22770FD4F82}|CursoC\\CursoC.csproj|c:\\users\\luisc\\source\\repos\\cursoc\\cursoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02E4B5C-D3F7-4238-9318-F22770FD4F82}|CursoC\\CursoC.csproj|solutionrelative:cursoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02E4B5C-D3F7-4238-9318-F22770FD4F82}|CursoC\\CursoC.csproj|c:\\users\\luisc\\source\\repos\\cursoc\\cursoc\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A02E4B5C-D3F7-4238-9318-F22770FD4F82}|CursoC\\CursoC.csproj|solutionrelative:cursoc\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\luisc\\source\\repos\\CursoC\\CursoC\\README.md",
+              "RelativeDocumentMoniker": "CursoC\\README.md",
+              "ToolTip": "C:\\Users\\luisc\\source\\repos\\CursoC\\CursoC\\README.md",
+              "RelativeToolTip": "CursoC\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-06T06:12:56.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisc\\source\\repos\\CursoC\\CursoC\\Program.cs",
+              "RelativeDocumentMoniker": "CursoC\\Program.cs",
+              "ToolTip": "C:\\Users\\luisc\\source\\repos\\CursoC\\CursoC\\Program.cs",
+              "RelativeToolTip": "CursoC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T05:50:20.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
